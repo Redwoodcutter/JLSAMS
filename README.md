@@ -4,6 +4,7 @@ JLSAMS is simple json project. I purpose in this project search a data in json a
 other buttons like "Finans Haber" or "Spor Haber" is doing basic json request. This project desing by "if we have a one News Json data, how we can search in there.
 
 Main Screen
+
 ![Tüm Haberler](https://github.com/Redwoodcutter/JLSAMS/blob/master/images/haber1.png)
 
 Search Screen - When you are click to search image button as you can see this window
