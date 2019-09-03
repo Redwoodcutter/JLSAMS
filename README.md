@@ -17,11 +17,15 @@ Detail Screen - When you click to search screen list item as you can see to deta
 ## Features
 
 Volley Library
+
 Gson Library
+
 Glide Library
+
 Recyclerview Liblary
 
 Json Live Search
+
 Json Search
 
 ## Getting Started
@@ -42,12 +46,17 @@ Android Studio : Native Java
 ## Versioning
 
 Project Structure :
+
 Plugin Versiyon :3.2.1
+
 Grandle Version : 4.6
 
 gson:2.6.2
+
 glide:4.3.1
+
 recyclerview-v7:28.0.0
+
 volley:volley:1.1.0
 
 
